@@ -2,3 +2,7 @@
     background-color: rgb(247, 131, 131);
     font-family: "Verdana", "DejaVu Sans", sans-serif;
 }
+
+.odd-number#three {
+    font-size: 24px;
+}
