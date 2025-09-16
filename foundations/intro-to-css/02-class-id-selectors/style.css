@@ -6,3 +6,8 @@
 .odd-number#three {
     font-size: 24px;
 }
+
+#two {
+    color: rgb(69, 108, 236);
+    font-size: 36px;
+}
